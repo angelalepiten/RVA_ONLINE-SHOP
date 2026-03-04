@@ -15,6 +15,5 @@ Clone the repository and open index.html in your browser:
 git clone https://github.com/angelalepiten/RVA_ONLINE-SHOP.git
 cd RVA_ONLINE-SHOP
 
-This version is short, professional, and directly explains your project without extra fluff.  
 
-Would you like me to also make a *one-liner tagline* (like “A lightweight responsive online shop website”) that you can put at the very top of your GitHub profile for recruiters?
+
